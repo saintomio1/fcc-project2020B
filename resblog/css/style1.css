@@ -1,0 +1,935 @@
+                 
+                        
+                        .img3 img {
+                            /*background: rgb(199, 188, 188);*/
+                            /*box-shadow: h-offset(25px);*/
+                            box-shadow: 10px 10px 10px 5px #1516168a;
+                        }
+                        
+                        .col-3 {
+                            margin-bottom: 16px;
+                        }
+                        
+                        .col-6 {
+                            padding: 10px;
+                            margin-bottom: 16px;
+                        }
+                        
+                        .tea2 h4 {
+                            font-size: 35px;
+                            font-weight: bold;
+                            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                            color: white;
+                            background: #4ba5bb;
+                            text-shadow: 4px 5px 1px #575e5f8a;
+                        }
+                        
+                        .post-title1 {
+                            font-size: 20px;
+                            font-weight: bold;
+                            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                            color: #412f26;
+                        }
+                        
+                        .col-12 h4 {
+                            font-weight: bold;
+                            color: rgb(12, 9, 6);
+                        }
+                        
+                        .col-12 {
+                            font-weight: bold;
+                            color: rgb(12, 9, 6);
+                        }
+                        
+                        .col-12 p {
+                            font-weight: bold;
+                            color: rgb(75, 72, 68);
+                            font-family: Georgia, 'Times New Roman', Times, serif;
+                        }
+                        
+                        .oxi1c a {
+                            font-size: 20px;
+                            font-weight: bold;
+                            color: rgb(20, 18, 17);
+                        }
+                        
+                        .fovor1 h2 a {
+                            color: rgb(12, 193, 238);
+                            font-size: 15px;
+                            font-weight: bold;
+                            padding-top: 0px;
+                        }
+                        
+                        .fovor1 h2 {
+                            color: rgb(216, 197, 197);
+                            font-size: 50px;
+                            font-weight: bolder;
+                            font-family: Arial, Helvetica, sans-serif;
+                        }
+                        
+                        .fovor1 p {
+                            color: white;
+                            font-size: 12px;
+                            font-family: Arial, Helvetica, sans-serif;
+                            float: right;
+                        }
+                        
+                        .fovor1 {
+                            background: #020202a2;
+                            width: 100%;
+                            height: 120px;
+                            border: #572d05ea;
+                            margin-bottom: -20px;
+                            align-self: auto;
+                            padding: 5%;
+                            padding-top: 10px;
+                        }
+                        
+                        .fovor2 {
+                            background-color: rgba(126, 122, 122, 0.096);
+                            color: #eee9e6;
+                            width: 100%;
+                            height: auto;
+                            font-size: 30px;
+                            font-weight: bold;
+                            border: #572d05ea;
+                            margin-bottom: -30px;
+                            margin-top: -20px;
+                            align-self: auto;
+                            padding: 5%;
+                            text-shadow: 4px 5px 1px #9da4a58a;
+                        }
+                        
+                        .item1 {
+                            height: 350px;
+                            width: 100%;
+                        }
+                        /*-----------------------------
+            CSS for About page contents styling
+        -----------------------------*/
+                        
+                        .containerx {
+                            /*background-image: url('../images1/web/brick01.jpg');*/
+                            background-image: linear-gradient(rgb(231, 231, 231), rgba(11, 12, 12, 0.493), rgb(202, 195, 184));
+                        }
+                        
+                        #home-content p {
+                            color: #1f1406;
+                            padding-bottom: 0px;
+                            text-align: center;
+                        }
+                        
+                        #home-content {
+                            width: auto;
+                        }
+                        
+                        #home-content .post-title1 {
+                            text-align: center;
+                            text-shadow: 3px 4px 1px #eeeeee;
+                            color: #d33e10;
+                        }
+                        
+                        #home-content .col-6 {
+                            padding: 10px;
+                            border-radius: 8px;
+                            background: whitesmoke;
+                            box-shadow: 10px 10px 5px #7a85868a;
+                        }
+                        
+                        .oxi1c p,
+                        #abt-content {
+                            padding: 10px;
+                            border-radius: 8px;
+                            background: whitesmoke;
+                            box-shadow: 10px 10px 5px #7a85868a;
+                            width: auto;
+                            color: black;
+                            font-family: Cambria;
+                        }
+                        
+                        #op {
+                            width: auto;
+                            height: auto;
+                            margin-top: 40px;
+                            padding: 2%;
+                            -webkit-box-shadow: inset -1px 3px 8px 5px #9ba5af, 2px 5px 16px 0px #08325e, 5px 5px 15px 5px rgba(0, 0, 0, 0);
+                            box-shadow: inset -1px 3px 8px 5px #644528, 2px 5px 16px 0px #0b325e, 5px 5px 15px 5px rgba(0, 0, 0, 0);
+                        }
+                        
+                        .oxi2c {
+                            -webkit-box-shadow: inset 2px 2px 2px 2px #1C6EA4, inset 11px 11px 2px 0px #2285C7, inset 20px 20px 2px 1px #289DEA, inset 29px 29px 2px 1px #57BBEA, 5px 5px 15px 5px rgba(0, 0, 0, 0);
+                            box-shadow: inset 2px 2px 2px 2px #1C6EA4, inset 11px 11px 2px 0px #2285C7, inset 20px 20px 2px 1px #289DEA, inset 29px 29px 2px 1px #57BBEA, 5px 5px 15px 5px rgba(0, 0, 0, 0);
+                        }
+                        
+                        .oxi2 h4 a {
+                            color: #365068;
+                            font-weight: bolder;
+                            font-size: 25px;
+                        }
+                        
+                        .oxi1c h4 a {
+                            color: #4d4a48;
+                            font-size: 20px;
+                            text-shadow: 4px 5px 1px #7a85868a;
+                        }
+                        
+                        .oxi1c h5 {
+                            color: #6d665f;
+                            font-size: 12px;
+                            font-family: Calibri;
+                        }
+                        
+                        .oxi1c p {
+                            color: #2c1b10;
+                            font-size: 16px;
+                        }
+                        
+                        .fcc h3 p {
+                            font-size: 25px;
+                            font-weight: bold;
+                            color: rgb(75, 72, 68);
+                            font-family: Calibri;
+                        }
+                        
+                        .fcc h5 {
+                            font-size: 10px;
+                            font-weight: bold;
+                            color: rgb(12, 7, 2);
+                            font-family: Cambria;
+                        }
+                        
+                        .ads1 img {
+                            box-shadow: 10px 10px #7a85868a;
+                        }
+                        
+                        .col-md-12 h2,
+                        .ads6c h4 {
+                            font-size: 30px;
+                            font-weight: bolder;
+                            color: #be4b11;
+                            text-shadow: 4px 5px 1px #7a85868a;
+                            hover: height;
+                        }
+                        
+                        .img3c img {
+                            /*background: rgb(199, 188, 188);*/
+                            /*box-shadow: h-offset(25px);*/
+                            box-shadow: 10px 10px 10px 5px #1516168a;
+                        }
+                        
+                        .buldg1 img {
+                            box-shadow: 10px 10px 10px 5px #1516168a;
+                        }
+                        
+                        .col-md-12 a {
+                            text-shadow: 4px 5px 1px #7a85868a;
+                        }
+                        
+                        .col-md-12 {
+                            margin-bottom: 25px;
+                        }
+                        
+                        .col-3 {
+                            margin-bottom: 16px;
+                        }
+                        
+                        .col-6 {
+                            padding: 10px;
+                            margin-bottom: 16px;
+                        }
+                        
+                        .tea3 {
+                            font-size: 16px;
+                            font-weight: bold;
+                            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                            color: white;
+                            padding: 10px;
+                        }
+                        
+                        h4.invit2 {
+                            font-size: 20px;
+                            font-weight: bold;
+                            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                            color: rgb(218, 12, 12);
+                            text-shadow: 4px 5px 1px #7a85868a;
+                        }
+                        
+                        p.tea3 {
+                            font-size: 12px;
+                            font-weight: bold;
+                            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                            color: white;
+                            background: #4ba5bb;
+                            text-shadow: 4px 5px 1px #575e5f8a;
+                        }
+                        
+                        .post-title1 {
+                            font-size: 20px;
+                            font-weight: bold;
+                            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                            color: #412f26;
+                        }
+                        
+                        .col-12c h4 {
+                            font-size: 40px;
+                            font-weight: bold;
+                            color: rgb(12, 9, 6);
+                        }
+                        
+                        .col-12c {
+                            background-position: center;
+                            background-repeat: no-repeat;
+                            background-size: cover;
+                            padding: 2%;
+                            width: auto;
+                            height: auto;
+                            font-weight: bold;
+                            color: rgb(12, 9, 6);
+                        }
+                        
+                        .col-12c p {
+                            font-size: 18px;
+                            font-weight: bold;
+                            color: rgb(75, 72, 68);
+                            font-family: Georgia, 'Times New Roman', Times, serif;
+                        }
+                        
+                        .gal h5 p {
+                            font-size: 10px;
+                            font-weight: bold;
+                            color: rgb(75, 72, 68);
+                            font-family: Cambria;
+                        }
+                        
+                        .gal h6 {
+                            font-size: 12px;
+                            font-weight: bold;
+                            color: rgb(75, 72, 68);
+                            font-family: Georgia, 'Times New Roman', Times, serif;
+                        }
+                        
+                        .oxi1 a {
+                            font-size: 20px;
+                            font-weight: bold;
+                            color: rgb(153, 64, 19);
+                        }
+                        
+                        .fovor1c h2 a {
+                            color: rgb(12, 193, 238);
+                            font-size: 15px;
+                            font-weight: bold;
+                            padding-top: 0px;
+                        }
+                        
+                        .fovor1c h2 {
+                            color: rgb(216, 197, 197);
+                            font-size: 50px;
+                            font-weight: bolder;
+                            font-family: Arial, Helvetica, sans-serif;
+                        }
+                        
+                        .fovor1c p {
+                            color: white;
+                            font-size: 12px;
+                            font-family: Arial, Helvetica, sans-serif;
+                            float: right;
+                        }
+                        
+                        .fovor1c {
+                            background: #020202a2;
+                            width: 100%;
+                            height: 120px;
+                            border: #572d05ea;
+                            margin-bottom: -20px;
+                            align-self: auto;
+                            padding: 5%;
+                            padding-top: 10px;
+                        }
+                        
+                        .fovor2c {
+                            background-color: rgba(126, 122, 122, 0.096);
+                            color: #eee9e6;
+                            width: 100%;
+                            height: 120px;
+                            font-size: 30px;
+                            font-weight: bold;
+                            border: #572d05ea;
+                            margin-bottom: -20px;
+                            align-self: auto;
+                            padding: 5%;
+                            text-shadow: 4px 5px 1px #9da4a58a;
+                        }
+                        
+                        .item {
+                            height: 350px;
+                            width: 100%;
+                        }
+                        /*-----------------------------
+                CSS for HTML & DIV ANIMATIONS
+            -----------------------------*/
+                        /* CSS Colour DIV transform*/
+                        
+                        .ayo,
+                        div.a {
+                            padding: 2%;
+                            font-size: 12px;
+                            float: left;
+                            border-radius: 15px;
+                            background-color: white;
+                            -ms-transform: rotate(-25deg);
+                            /* IE 9 */
+                            -webkit-transform: rotate(-25deg);
+                            /* Safari 3-8 */
+                            transform: rotate(-25deg);
+                        }
+                        
+                        div.b {
+                            width: 150px;
+                            height: 80px;
+                            background-color: yellow;
+                            -ms-transform: skewY(-25deg);
+                            /* IE 9 */
+                            -webkit-transform: skewY(-25deg);
+                            /* Safari 3-8 */
+                            transform: skewY(-25deg);
+                        }
+                        
+                        div.c {
+                            width: 150px;
+                            height: 80px;
+                            background-color: yellow;
+                            -ms-transform: scaleY(1.5);
+                            /* IE 9 */
+                            -webkit-transform: scaleY(1.5);
+                            /* Safari 3-8 */
+                            transform: scaleY(1.5);
+                        }
+                        /* CSS Colour DIV animation*/
+                        
+                        .col-12c,
+                        .joe {
+                            color: white;
+                            font-size: 30px;
+                            font-weight: bolder;
+                            background-image: url('../images1/web/Model2.jpg');
+                            -webkit-animation-name: example;
+                            /* Safari 4.0 - 8.0 */
+                            -webkit-animation-duration: 10s;
+                            /* Safari 4.0 - 8.0 */
+                            animation-name: example;
+                            animation-duration: 10s;
+                        }
+                        /* Safari 4.0 - 8.0 */
+                        
+                        @-webkit-keyframes example {
+                            from {
+                                background-color: rgb(183, 233, 44);
+                            }
+                            to {
+                                background-color: rgb(23, 200, 206);
+                            }
+                        }
+                        /* Standard syntax */
+                        
+                        @keyframes example {
+                            from {
+                                background-image: linear-gradient(rgb(61, 39, 39), rgb(199, 207, 207), rgb(245, 193, 110));
+                            }
+                            to {
+                                background-image: url('../images1/web/Site2.png');
+                            }
+                        }
+                        /*The repeating-radial-gradient() function is used to repeat radial gradients:*/
+                        /*
+                    #grad1 {
+                        height: 200px;
+                        width: 200px;
+                        background-color: #cccccc;
+                        background-image: repeating-linear-gradient(red, yellow 10%, green 20%);
+                    }
+                    
+                    #grad2 {
+                        height: 200px;
+                        width: 200px;
+                        background-color: #cccccc;
+                        background-image: radial-gradient(red, yellow);
+                    }
+                    
+                    #grad3 {
+                        background-color: #cccccc;
+                        background-image: linear-gradient(red, yellow);
+                    }*/
+                        /*DIV ANIMATION*/
+                        
+                        .aniv {
+                            position: relative;
+                            -webkit-animation-name: mymove;
+                            /* Safari 4.0 - 8.0 */
+                            -webkit-animation-duration: 5s;
+                            /* Safari 4.0 - 8.0 */
+                            animation-name: mymove;
+                            animation-duration: 5s;
+                        }
+                        /* Safari 4.0 - 8.0 */
+                        
+                        @-webkit-keyframes mymove {
+                            from {
+                                left: 0px;
+                            }
+                            to {
+                                left: 200px;
+                            }
+                        }
+                        
+                        @keyframes mymove {
+                            from {
+                                left: 0px;
+                            }
+                            to {
+                                left: 200px;
+                            }
+                        }
+                        /*DIV ANIMATION continous motion*/
+                        
+                        .ayo,
+                        .divers {
+                            font-weight: bolder;
+                            width: 200px;
+                            height: 200px;
+                            background-color: rgb(221, 98, 27);
+                            position: relative;
+                            animation-fill-mode: forwards;
+                            -webkit-animation: myfirst 10s linear 2s infinite alternate;
+                            /* Safari 4.0 - 8.0 */
+                            /* animation: myfirst 5s linear 2s infinite alternate;*/
+                            animation-delay: 2s;
+                            animation-timing-function: ease-in-out;
+                        }
+                        /* Safari 4.0 - 8.0 */
+                        
+                        @-webkit-keyframes myfirst {
+                            0% {
+                                background-color: white;
+                                left: 0px;
+                                top: 0px;
+                                border-radius: 0 0 0 0;
+                            }
+                            25% {
+                                background-color: yellow;
+                                left: 200px;
+                                top: 0px;
+                                border-radius: 50% 0 0 0;
+                            }
+                            50% {
+                                background-color: rgb(65, 207, 22);
+                                left: 200px;
+                                top: 200px;
+                                border-radius: 50% 50% 0 0;
+                            }
+                            75% {
+                                background-color: green;
+                                left: 0px;
+                                top: 200px;
+                                border-radius: 50% 50% 50% 0;
+                            }
+                            100% {
+                                background-color: rgb(230, 23, 23);
+                                left: 0px;
+                                top: 0px;
+                                border-radius: 50% 50% 50% 50%;
+                            }
+                        }
+                        /* Standard syntax */
+                        
+                        @keyframes myfirst {
+                            0% {
+                                background-color: white;
+                                left: 0px;
+                                top: 0px;
+                                border-radius: 0 0 0 0;
+                            }
+                            25% {
+                                background-color: yellow;
+                                left: 200px;
+                                top: 0px;
+                                border-radius: 50% 0 0 0;
+                            }
+                            50% {
+                                background-color: blue;
+                                left: 200px;
+                                top: 200px;
+                                border-radius: 50% 50% 0 0;
+                            }
+                            75% {
+                                background-color: green;
+                                left: 0px;
+                                top: 200px;
+                                border-radius: 50% 50% 50% 0;
+                            }
+                            100% {
+                                background-color: rgb(28, 160, 221);
+                                left: 0px;
+                                top: 0px;
+                                border-radius: 50% 50% 50% 50%;
+                            }
+                        }
+                        
+                        .clitus {
+                            background-image: url('../images1/web/Crane6.png');
+                            background-size: cover;
+                            background-repeat: no-repeat;
+                            width: 400px;
+                            height: 400px;
+                            margin: auto;
+                            top: 200px;
+                            /*transition-property: background, border-radius;
+                        transition-duration: 1s;*/
+                            /* animation-delay: 2s;*/
+                            transition-property: all;
+                            transition-duration: 1s;
+                            transition-timing-function: ease-in-out;
+                        }
+                        /*.box2:hover and .box2:active can be used alternatively*/
+                        
+                        .clitus:hover {
+                            /*background:red; */
+                            background-image: url('../images1/web/ConcreteWks.png');
+                            border-radius: 10% 10% 0 0;
+                            transform: rotateY(180deg);
+                        }
+                        
+                        .buldg1 img {
+                            background-image: url('../images1/web/ConcreteWks.png');
+                            width: 160px;
+                            height: 160px;
+                            margin: auto;
+                            top: 200px;
+                            transition-property: all;
+                            transition-duration: 1s;
+                            /* animation-delay: 2s;*/
+                            animation-timing-function: ease-in-out;
+                        }
+                        /*.box5:hover and .box5:active can be used alternatively*/
+                        
+                        .buldg1 img:hover {
+                            /*background:red;*/
+                            height: 300px;
+                            width: 300px;
+                            background-image: url('../assets/images1/web/bulb.jpg');
+                        }
+                        /* lightSwitcher */
+                        
+                        .lightSwitcher {
+                            position: absolute;
+                            z-index: 999;
+                            top: -13px;
+                            left: -12px;
+                            display: block;
+                            padding: 0 4px;
+                            width: auto;
+                            /* IE 7 input button fix */
+                            overflow: visible;
+                            /* IE7 input button fix */
+                            text-decoration: none;
+                            outline: none;
+                            cursor: pointer;
+                            font-size: 8px;
+                            text-transform: uppercase;
+                            -webkit-border-radius: 3px;
+                            -moz-border-radius: 3px;
+                            border-radius: 3px;
+                            border: 1px solid #adadad;
+                            color: #000000;
+                            background: #ffffff 0 0 no-repeat;
+                            text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.8);
+                            background: -moz-linear-gradient(top, #ffffff 0%, #f1f1f1 50%, #e1e1e1 51%, #f6f6f6 100%);
+                            background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ffffff), color-stop(50%, #f1f1f1), color-stop(51%, #e1e1e1), color-stop(100%, #f6f6f6));
+                        }
+                        /*-----------------------------
+            CSS for Slider  url('../images1/web/brick01.jpg');
+        -----------------------------*/
+                        
+                        .carousel-caption {
+                            background-color: rgba(10, 10, 10, 0.4);
+                        }
+                        
+                        .carousel-caption a {
+                            color: #ffffff;
+                            font-size: 14px;
+                        }
+                        
+                        .carousel-indicators {
+                            bottom: 30px;
+                        }
+                        /*-----------------------------
+                CSS for Footer
+            -----------------------------*/
+                        
+                        .footer {
+                            background: url('../images/footer_bg.png');
+                        }
+                        
+                        .footer h4 {
+                            color: #ffffff;
+                            font-size: 20px;
+                        }
+                        
+                        .footer-link li {
+                            list-style: none;
+                            color: #ffffff;
+                        }
+                        
+                        .checkbox {
+                            font-size: 15px;
+                            color: #af4c0a;
+                        }
+                        
+                        .checkbox a {
+                            font-size: 15px;
+                            color: #e9dadad0;
+                        }
+                        
+                        .footer .social li {
+                            list-style: none;
+                            display: inline;
+                            padding-right: 3px;
+                        }
+                        
+                        .fa-facebook {
+                            padding-right: 5%;
+                        }
+                        
+                        .fa-twitter {
+                            color: lightblue;
+                            padding: 5%;
+                        }
+                        
+                        .fa-instagram {
+                            color: #ff6633;
+                            padding: 5%;
+                        }
+                        
+                        .fa-linkedin {
+                            color: #338899;
+                            padding: 5%;
+                        }
+                        
+                        .smedia {
+                            padding: 2%;
+                            font-size: 12px;
+                        }
+                        
+                        .copyright {
+                            color: white;
+                            font-size: 14px;
+                            font-family: Arial Narrow;
+                        }
+                        /*CSS Animation Styling*/
+                        
+                        .flip3D {
+                            width: 320px;
+                            height: 320px;
+                            margin: 25px;
+                            float: left;
+                        }
+                        
+                        .flip3D>.front {
+                            -webkit-transform: perspective(600px) rotateY(0deg);
+                            transform: perspective(600px) rotateY(0deg);
+                            background: #cc8513d0;
+                            width: 320px;
+                            height: 320px;
+                            border-radius: 7px;
+                            -webkit-backface-visibility: hidden;
+                            backface-visibility: hidden;
+                            transition: -webkit-transform .5s linear 0s;
+                            transition: transform .5s linear 0s;
+                        }
+                        
+                        .flip3D>.back {
+                            -webkit-transform: perspective(600px) rotateY(180deg);
+                            transform: perspective(600px) rotateY(180deg);
+                            background: rgba(202, 149, 98, 0.651);
+                            width: 320px;
+                            height: 420px;
+                            border-radius: 7px;
+                            -webkit-backface-visibility: hidden;
+                            backface-visibility: hidden;
+                            transition: -webkit-transform .5s linear 0s;
+                            transition: transform .5s linear 0s;
+                        }
+                        
+                        .flip3D:hover>.front {
+                            -webkit-transform: perspective(600px) rotateY(-180deg);
+                            transform: perspective(600px) rotateY(-180deg);
+                        }
+                        
+                        .flip3D:hover>.back {
+                            -webkit-transform: perspective(600px) rotateY(0deg);
+                            transform: perspective(600px) rotateY(0deg);
+                        }
+                        /*Animation Styling Ends here*/
+                        /*-----------------------------
+
+            
+            CSS for Other Contents
+            -----------------------------*/
+                        
+                        .cap1 {
+                            color: orange;
+                        }
+                        
+                        .ads h4 {
+                            background: url('../images/41c.jpg');
+                            color: rgb(26, 7, 7);
+                            padding: 5%;
+                            font-family: Trebuchet MS;
+                            /*'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif*/
+                        }
+                        
+                        .user-name {
+                            background: rgb(245, 245, 238);
+                            padding: 1%;
+                            font-size: 12px;
+                            font-weight: bold;
+                        }
+                        
+                        .comments-content {
+                            color: rgb(102, 83, 83);
+                            font-size: 10px;
+                            font-family: sans-serif;
+                        }
+                        
+                        .comments h2 {
+                            font-size: 18px;
+                            font-weight: bold;
+                        }
+                        
+                        .addcoment {
+                            font-size: 18px;
+                            font-weight: bold;
+                        }
+                        
+                        #home-content {
+                            background: #d3cec9;
+                        }
+                        
+                        .post-title {
+                            font-size: 24px;
+                            font-weight: bold;
+                            font-family: Calibri;
+                            color: #423f3d;
+                        }
+                        
+                        .post-content2 {
+                            font-size: 12px;
+                        }
+                        
+                        .sidebar h3 {
+                            font-size: 22px;
+                            font-family: Calibri;
+                        }
+                        
+                        .active {
+                            color: rgb(20, 78, 105);
+                            font-size: 12px;
+                            font-family: Arial Narrow;
+                        }
+                        
+                        .active1 a {
+                            width: 50px;
+                            height: 40px;
+                            border-radius: 4px;
+                        }
+                        
+                        .form-control {
+                            height: 35px;
+                        }
+                        
+                        .form-group {
+                            width: 600px;
+                        }
+                        
+                        .well {
+                            width: 600px;
+                            background: black;
+                            color: whitesmoke;
+                            border-radius: 10px;
+                            font-family: cursive;
+                        }
+                        /*
+            .well {
+                width: 600px;
+                background: #726d69;
+                color: whitesmoke;
+            }*/
+                        
+                        .myname {
+                            font-family: Calibri;
+                            color: #2496d8;
+                            font-weight: bolder;
+                            font-size: 16px;
+                        }
+                        
+                        .navbar-default {
+                            background: rgba(10, 10, 10, 0.1);
+                            font-family: Calibri;
+                        }
+                        /*
+            .dropdown-toggle1 {
+                color: #0d9114;
+                font-weight: bolder;
+                font-size: 20px;
+            }*/
+                        
+                        .real {
+                            float: right;
+                            font-weight: bolder;
+                            font-size: 30px;
+                            padding-right: 5%;
+                            color: #0fee6c;
+                        }
+                        
+                        .real li a {
+                            color: #0fee47;
+                            font-family: Arial, Helvetica, sans-serif;
+                        }
+                        
+                        .real ul a {
+                            color: #686260;
+                            font-size: 10px;
+                        }
+                        
+                        .dropdown {
+                            color: #0fee6c;
+                        }
+                        
+                        .caption1 h3 {
+                            font-size: 12px;
+                            font-weight: bold;
+                        }
+                        
+                        .caption1 p {
+                            font-size: 8px;
+                        }
+                        
+                        .list-group {
+                            font-size: 14px;
+                            font-family: Calibri;
+                            width: 600px;
+                        }
+                        
+                        .list-group1 {
+                            font-size: 18px;
+                            font-family: Calibri;
+                            width: 100%;
+                        }
+                        
+                        .nav-tabs li a {
+                            color: white;
+                            font-family: Arial Narrow;
+                        }
+                        
+                        .invit {
+                            font-size: 15px;
+                        }

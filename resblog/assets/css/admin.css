@@ -1,0 +1,26 @@
+body{
+	background-image: url('../images/bg2.jpg');
+}
+.admin-login{
+	width: 400px;
+	margin: auto;
+	background-color: pink;
+}
+.login-form{
+	margin-top:50px; 
+	padding-top: 100px;
+	width: 300px
+	margin:auto;
+}
+.login-form .form-group{
+	padding:6px; 
+}
+.side-menu{
+	background-color: #cc7866;
+}
+.side-menu h5 a{
+	color: white;
+}
+.post-title{
+	
+}
